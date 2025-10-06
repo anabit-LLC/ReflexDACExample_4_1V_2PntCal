@@ -8,7 +8,9 @@ This example sketch demonstrates how to output a single bipolar voltage value fr
 With the option to apply a two point calibration correction factor to compenstate for the DAC and op amp's
 gain and offset error. You can learn more about the two point calibration method and how to use this sketch
 from the following links. 
+
 Anabit YouTube video: https://youtu.be/0ndLKB3INxk
+
 Anabit website tutorial: 
 https://anabit.co/blogs/data_converter_u/increasing-a-dacs-output-accuracy-using-the-two-point-calibration-method
 
